@@ -1,6 +1,7 @@
 # Instructions for setting the test environments
 
-Unit Test framework is used with POM and Behave
+i this repo i created a sample file for some one who want to implement selenium with python and cucmber 
+for assertion we are using unit test and pytest
 
 Once the tests are completed, reports will generated using the following command
 behave -f allure_behave.formatter:AllureFormatter -o AutomationTestReports/ <Absoulte path to where feature files are available>
